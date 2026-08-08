@@ -1,10 +1,12 @@
 # cornhub-downloader
-Download High quality corns**# Cornhub Downloader
+Download High quality corns
 
 A simple Windows GUI downloader built with **Python, PyQt6, yt-dlp and FFmpeg**.
 
 <img width="602" height="312" alt="image" src="https://github.com/user-attachments/assets/af32bb0b-ed56-496d-b888-ba61adf152ee" />
 
+# Insatllation
+Go to Release -> Download exe -> Install
 
 ## Features
 
